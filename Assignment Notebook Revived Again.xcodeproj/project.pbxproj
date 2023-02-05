@@ -14,6 +14,8 @@
 		B60EC2D429902ADF00F63D1E /* Assignment_Notebook_Revived_AgainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60EC2D329902ADF00F63D1E /* Assignment_Notebook_Revived_AgainTests.swift */; };
 		B60EC2DE29902ADF00F63D1E /* Assignment_Notebook_Revived_AgainUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60EC2DD29902ADF00F63D1E /* Assignment_Notebook_Revived_AgainUITests.swift */; };
 		B60EC2E029902ADF00F63D1E /* Assignment_Notebook_Revived_AgainUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60EC2DF29902ADF00F63D1E /* Assignment_Notebook_Revived_AgainUITestsLaunchTests.swift */; };
+		B60EC2EF29902BA700F63D1E /* assignmentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60EC2EE29902BA700F63D1E /* assignmentList.swift */; };
+		B60EC2F129902BC000F63D1E /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60EC2F029902BC000F63D1E /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		B60EC2D929902ADF00F63D1E /* Assignment Notebook Revived AgainUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Assignment Notebook Revived AgainUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B60EC2DD29902ADF00F63D1E /* Assignment_Notebook_Revived_AgainUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_Notebook_Revived_AgainUITests.swift; sourceTree = "<group>"; };
 		B60EC2DF29902ADF00F63D1E /* Assignment_Notebook_Revived_AgainUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_Notebook_Revived_AgainUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B60EC2EE29902BA700F63D1E /* assignmentList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignmentList.swift; sourceTree = "<group>"; };
+		B60EC2F029902BC000F63D1E /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				B60EC2C229902ADE00F63D1E /* Assignment_Notebook_Revived_AgainApp.swift */,
 				B60EC2C429902ADE00F63D1E /* ContentView.swift */,
+				B60EC2EE29902BA700F63D1E /* assignmentList.swift */,
+				B60EC2F029902BC000F63D1E /* AddItemView.swift */,
 				B60EC2C629902ADF00F63D1E /* Assets.xcassets */,
 				B60EC2C829902ADF00F63D1E /* Preview Content */,
 			);
@@ -259,6 +265,8 @@
 			files = (
 				B60EC2C529902ADE00F63D1E /* ContentView.swift in Sources */,
 				B60EC2C329902ADE00F63D1E /* Assignment_Notebook_Revived_AgainApp.swift in Sources */,
+				B60EC2EF29902BA700F63D1E /* assignmentList.swift in Sources */,
+				B60EC2F129902BC000F63D1E /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
